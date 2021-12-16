@@ -739,9 +739,9 @@
   dependencies:
     antlr4ts "^0.5.0-alpha.4"
 
-"@sushiswap/core-sdk@1.0.0-canary.9":
+"@hotpotswap/core-sdk@1.0.0-canary.9":
   version "1.0.0-canary.9"
-  resolved "https://registry.yarnpkg.com/@sushiswap/core-sdk/-/core-sdk-1.0.0-canary.9.tgz#969964b25be5e52c3a12dce237b5e8d1ebfaac86"
+  resolved "https://registry.yarnpkg.com/@hotpotswap/core-sdk/-/core-sdk-1.0.0-canary.9.tgz#969964b25be5e52c3a12dce237b5e8d1ebfaac86"
   integrity sha512-IhDB38mcGN1akaYC6vl9R7348HM9Ki7SHTUoZyud8xr/gf09E8cZAovTWNJV+PdohFwV6549ODgWgAIlfSpeMw==
   dependencies:
     "@ethersproject/address" "^5.4.0"

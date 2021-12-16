@@ -1,10 +1,6 @@
-# SushiSwap
+# HotpotSwap
 
-https://sushi.com/
-
-## Deployed Contracts
-
-https://dev.sushi.com/sushiswap/contracts
+https://hotpotswap.com/
 
 ## Docs
 
